@@ -1,6 +1,7 @@
 # 💫 About Me:
-I'm currently looking for java spring backend or fullstacks Junior or mid positions.<br>I'm also working as a java basic Instructor in Java Developement Class<br>(JDC) over 1 year expreinced.My Education was paused due to the covid and <br>the upcoming crisis in  myanmar as a final year CS student.Now i'm looking for <br>a job to use my knowledge through the years of exprincenced in the field of IT.<br>Wish me luck guys xD.<br>
-
+I'm currently looking for Java Spring backend or full-stack Junior or mid-level positions.
+I'm also working as a Java basic Instructor in a Java Development Class (JDC) with over 1 year of experience. My education was paused due to COVID and the ongoing crisis in Myanmar as I was a final-year CS student. Now, I'm looking for a job to apply my knowledge and the experience I've gained in the IT field over the years.
+Wish me luck, guys! xD
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Kyaw Htet) 
