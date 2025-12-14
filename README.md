@@ -1,8 +1,11 @@
 # 💫 About Me:
-I'm currently looking for Java Spring backend or full-stack Junior or mid-level positions.
-I'm also working as a Java basic Instructor in a Java Development Class (JDC) with over 1 year of experience. My education was paused due to COVID and the ongoing crisis in Myanmar as I was a final-year CS student. Now, I'm looking for a job to apply my knowledge and the experience I've gained in the IT field over the years.
-Wish me luck, guys! xD
+I am a highly motivated engineer aspiring for Junior to Mid-Level positions, bringing a solid foundation in Java/Spring Boot Backend Development coupled with two years of focused practical experience in DevOps Engineering principles, including CI/CD, Cloud Automation, and Containerization.
 
+My experience of over one year as a Java Basic Instructor at a Java Development Class (JDC) is a testament to my firm grasp of core technical fundamentals. This role also significantly enhanced my ability to clearly articulate complex concepts and fostered strong teamwork and communication skills.
+
+Although my studies in Computer Science (Final Year) were temporarily paused due to external circumstances, I am now proactively seeking opportunities to leverage my accumulated IT knowledge and hands-on experience in building robust, high-quality software systems and streamlining deployment pipelines through automation.
+
+I am actively ready to contribute my dual expertise in Software Development and Deployment Automation to a challenging Junior/Mid-Level role focused on either the Spring Backend or DevOps tracks.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Kyaw Htet) 
 My Portfolio site - www.ivanthedev.dev
